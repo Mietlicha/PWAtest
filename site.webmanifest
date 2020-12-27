@@ -1,6 +1,6 @@
 {
-    "name": "",
-    "short_name": "",
+    "name": "robo",
+    "short_name": "robo",
     "icons": [
         {
             "src": "/android-chrome-192x192.png",
